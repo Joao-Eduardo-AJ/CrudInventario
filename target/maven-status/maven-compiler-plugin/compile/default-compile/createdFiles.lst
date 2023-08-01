@@ -1,0 +1,6 @@
+br/com/syonet/inventario/service/EntityManagerProvider.class
+br/com/syonet/inventario/repository/Classe.class
+br/com/syonet/inventario/repository/Item.class
+br/com/syonet/inventario/dao/InventarioDAOImpl.class
+br/com/syonet/inventario/repository/Personagem.class
+br/com/syonet/inventario/Application.class

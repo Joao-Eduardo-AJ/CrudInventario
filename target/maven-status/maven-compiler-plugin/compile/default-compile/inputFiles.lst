@@ -1,0 +1,6 @@
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/repository/Item.java
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/dao/InventarioDAOImpl.java
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/service/EntityManagerProvider.java
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/repository/Classe.java
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/repository/Personagem.java
+/opt/syonet/projeto/inventario/src/main/java/br/com/syonet/inventario/Application.java
